@@ -1,5 +1,5 @@
-# chat-AI-Bot
-#ChatGPT
+# Chat-AI-Bot
+ChatGPT
 
 A new Flutter project.
 
